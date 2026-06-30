@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5d0043/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃帝內經素問遺篇
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 01:14:44.968649'
+  source:
+    repository: kanripo
+    path: KR5d0043/KR5d0043_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:3eb4d9287049798edeb7467da5b6ebfac54a6d27ee8d4554d842b1a0cf5a2aa4
